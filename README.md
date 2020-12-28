@@ -127,6 +127,7 @@ Project Link: [https://github.com/sami-colon/eLearn-template](https://github.com
 <img src="images/image2.png" alt="Logo">
 <img src="images/image3.png" alt="Logo">
 <img src="images/image4.png" alt="Logo">
+<img src="images/image5.png" alt="Logo">
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
